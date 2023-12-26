@@ -1,1 +1,1 @@
-Code i write bout some basic timed math quiz 
+Code i write for some basic timed math quiz 
